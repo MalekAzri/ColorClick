@@ -1,0 +1,15 @@
+.button{
+    margin-left: 25%;
+}
+.closed,.opened{
+    margin-left: 20%;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.7230bb69b836680faf6261f8f3125a54?rik=7zzb6AynJY3ulA&pid=ImgRaw&r=0");
+}
+.border{
+   background-color: grey;
+}
+.title{
+    color:black;
+}
